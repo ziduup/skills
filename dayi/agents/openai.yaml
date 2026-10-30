@@ -1,0 +1,5 @@
+interface:
+  display_name: "dayi"
+  short_description: "设计树拷问 + 易立竞式提问打磨"
+policy:
+  allow_implicit_invocation: false
